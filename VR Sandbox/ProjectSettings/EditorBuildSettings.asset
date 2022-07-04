@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
     guid: a9c41884ef0c347628dfd8a4af4a022e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/DistanceGrab.unity
     guid: 24f58b3f0ca02d44eaec7f50bca538f2
+  - enabled: 1
+    path: Assets/Scenes/TestRoom.unity
+    guid: 56d35c89697efbb4d9f16787a300ae9d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5dcfba541ee66664babab34a22d97dff,
       type: 2}
